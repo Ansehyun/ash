@@ -1,6 +1,7 @@
 # Catch Cats
-Click [here](https://website.ansehyun.repl.co/)
+Click [:octocat](https://website.ansehyun.repl.co/)
 ## 웹사이트 소개
+
 ___
 주요 기능:
 * 길고양이 입양
